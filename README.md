@@ -24,5 +24,5 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 - Download the [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
 
 
-### Transfer Learning
+## Transfer Learning
 VGG 16 was used which achieved 83% accuracy in just 9 epochs. 
